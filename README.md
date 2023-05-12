@@ -1,5 +1,7 @@
 <h3 align="center">Hi 👋, I'm @SushantPawar</h3>
 <h3 align="center">A passionate Full Stack Developer from India</h3>
+<hr>
+<p>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp  A passionate full stack web developer and a software engineer from india.my passion for software engineer lies with dreaming up ideas and making them come true with elegant interfaces.i take great care in the experience, architecture,and code quality of the things i build.</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sushantpawar-7007&label=Profile%20views&color=0e75b6&style=flat" alt="sushantpawar-7007" /> </p>
 
